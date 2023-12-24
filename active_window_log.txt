@@ -1,0 +1,31 @@
+[2023-12-24 23:17:18] | 管理员: Windows PowerShell
+[2023-12-24 23:17:19] | ChatHub - Google Chrome
+[2023-12-24 23:17:20] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
+[2023-12-24 23:17:21] | ChatHub - Google Chrome
+[2023-12-24 23:17:22] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
+[2023-12-24 23:17:23] | ChatHub - Google Chrome
+[2023-12-24 23:17:23] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
+[2023-12-24 23:17:34] | Log Window Changes. - Google Chrome
+[2023-12-24 23:17:47] | 【传染病简史8】炭疽：九死一生，可制成顶级生化武器的恶魔种子_哔哩哔哩_bilibili - Google Chrome
+[2023-12-24 23:17:48] | 【传染病简史4】肺结核：白色瘟疫，欧洲人梦寐以求的浪漫死神_哔哩哔哩_bilibili - Google Chrome
+[2023-12-24 23:17:54] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
+[2023-12-24 23:18:07] | 【传染病简史4】肺结核：白色瘟疫，欧洲人梦寐以求的浪漫死神_哔哩哔哩_bilibili - Google Chrome
+[2023-12-24 23:18:13] | MainWindow
+[2023-12-24 23:18:26] | 
+[2023-12-24 23:18:31] | Steam
+[2023-12-24 23:18:36] | 【传染病简史4】肺结核：白色瘟疫，欧洲人梦寐以求的浪漫死神_哔哩哔哩_bilibili - Google Chrome
+[2023-12-24 23:18:40] | 
+[2023-12-24 23:18:40] | Steam
+[2023-12-24 23:18:46] | 【传染病简史4】肺结核：白色瘟疫，欧洲人梦寐以求的浪漫死神_哔哩哔哩_bilibili - Google Chrome
+[2023-12-24 23:18:51] | 
+[2023-12-24 23:18:51] | 此电脑
+[2023-12-24 23:18:56] | D:\
+[2023-12-24 23:19:01] | WPS图片
+[2023-12-24 23:19:01] | 配置截图.jpg  WPS图片
+[2023-12-24 23:19:09] | D:\
+[2023-12-24 23:19:10] | 【传染病简史4】肺结核：白色瘟疫，欧洲人梦寐以求的浪漫死神_哔哩哔哩_bilibili - Google Chrome
+[2023-12-24 23:19:13] | 
+[2023-12-24 23:19:13] | 管理员: Windows PowerShell
+[2023-12-24 23:20:51] | 管理员: Windows PowerShell
+[2023-12-24 23:20:54] | test1.py - AllMind - Visual Studio Code [Administrator]
+[2023-12-24 23:20:55] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
