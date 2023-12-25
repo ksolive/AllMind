@@ -1,4 +1,4 @@
-from functions import get_city_for_date
+# from functions import get_city_for_date
 # from dall_e_3 import get_dalle_image
 # from assistant import create_assistant, create_thread, get_completion
 

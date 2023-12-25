@@ -5,6 +5,7 @@ import time
 from openai import OpenAI
 import base64
 import requests
+import random
 
 # 获取 API 密钥
 OPENAI_API_KEY = "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"
@@ -222,6 +223,7 @@ def get_dalle_image(prompt):
     return {"image": "/imgs/" + img_name}
 
 def search_oline(api_key, cx, query):
+
     base_url = "https://www.googleapis.com/customsearch/v1"
     params = {
         'key': api_key,
@@ -248,3 +250,68 @@ def search_oline(api_key, cx, query):
         return search_data
     except Exception as e:
         return {"error": f"An error occurred: {e}"}
+
+def get_city_list():
+    """
+    Retrieves a list of city names from a JSON file and returns the shuffled list.
+
+    Returns:
+        list: A list of city names.
+    """
+    city_list = []
+    with open('../data/city.json', 'r') as f:
+        data = json.load(f)
+        for province in data['provinces']:
+            for city in province['citys']:
+                city_list.append(city['cityName'])
+    random.shuffle(city_list)
+
+
+def generate_city_mapping(year):
+    """
+    Generates a mapping of dates to cities based on the given year.
+
+    Parameters:
+        year (int): The year for which the mapping needs to be generated.
+
+    Returns:
+        dict: A dictionary containing the mapping of dates to cities.
+    """
+    city_mapping = {}
+    start_date = datetime.date(year, 1, 1)
+    end_date = datetime.date(year, 12, 31)
+    delta = datetime.timedelta(days=1)
+    current_date = start_date
+    while current_date <= end_date:
+        city_mapping[current_date] = city_list[current_date.timetuple().tm_yday % len(city_list) - 1]
+        current_date += delta
+    return city_mapping
+
+def get_city_for_date(date_str):
+
+def get_city_for_date(date_str):
+    """
+    Given a date string, this function returns the corresponding city for that date.
+
+    Args:
+        date_str (str): A string representing a date in the format "YYYY-MM-DD".
+
+    Returns:
+        str: The city corresponding to the given date.
+
+    Raises:
+        ValueError: If the date string is not in the correct format.
+
+    Examples:
+        >>> get_city_for_date("2022-01-01")
+        '烟台市'
+        >>> get_city_for_date("2022-12-25")
+        '北京市'
+    """
+    date_format = "%Y-%m-%d"
+    try:
+        input_date = datetime.datetime.strptime(date_str, date_format).date()
+    except ValueError:
+        return "无效日期格式。请使用YYYY-MM-DD格式。"
+    year_mapping = generate_city_mapping(input_date.year)
+    return year_mapping.get(input_date, "日期不在当前年份内")
