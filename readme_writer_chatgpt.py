@@ -12,24 +12,65 @@ ver 0.1:
 
 # ver 0.1
 import json
+from openai import OpenAI
 
-def gptCheckStart(user_input):
-    return True
+def gptSingle(gpt_client, system_input, user_input, temperature=1, max_tokens=256):
+    response = gpt_client.chat.completions.create(
+    model="gpt-3.5-turbo",
+    messages=[
+        {
+        "role": "system",
+        "content": system_input
+        },
+        {
+        "role": "user",
+        "content": user_input
+        },
+    ],
+    temperature=temperature,
+    max_tokens=max_tokens,
+    top_p=1,
+    frequency_penalty=0,
+    presence_penalty=0
+    )
+    return response
 
-def gptCheckEnd(user_input): 
-    return True
+def gptCheckStart(gpt_client, user_input):
+    response = gptSingle(
+        gpt_client, 
+        "判断用户输入是否与'配置环境'、“安装程序”有相似意思：输出yes或no", 
+        user_input
+    )
+    if response.choices[0].message.content == 'yes':
+        return True
+    else:
+        return False
 
-def gptSummary(search_list):
+def gptCheckEnd(gpt_client, user_input): 
+    response = gptSingle(
+        gpt_client, 
+        "判断用户输入是否与“记录完成”、“软件安完了”、“可以开始总结了”有相似意思：输出yes或no", 
+        user_input
+    )
+    if response.choices[0].message.content == 'yes':
+        return True
+    else:
+        return False
+
+def gptSummary(gpt_client, search_list):
     return ""
 
 def main():
+    client = OpenAI(
+        api_key="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",
+    )
     search_list = []
     while True:
         user_input = input()
         # 用gpt来判断是不是控制单元（开始、结束）
-        if gptCheckStart(user_input):
+        if gptCheckStart(client, user_input):
             print("debug 开始配环境")
-        elif gptCheckEnd(user_input):
+        elif gptCheckEnd(client, user_input):
             print("debug 配环境结束")
             with open("./search_list.json", "w") as f:
                 json.dump(search_list, f)
@@ -37,7 +78,7 @@ def main():
         else:
             # 把user_input记录到log文件里面,json格式
             search_list.append(user_input)
-    summary = gptSummary(search_list)   
+    summary = gptSummary(client, search_list)   
     print(summary)
         
             
