@@ -1,31 +1,263 @@
-[2023-12-24 23:17:18] | ����Ա: Windows PowerShell
-[2023-12-24 23:17:19] | ChatHub - Google Chrome
-[2023-12-24 23:17:20] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
-[2023-12-24 23:17:21] | ChatHub - Google Chrome
-[2023-12-24 23:17:22] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
-[2023-12-24 23:17:23] | ChatHub - Google Chrome
-[2023-12-24 23:17:23] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
-[2023-12-24 23:17:34] | Log Window Changes. - Google Chrome
-[2023-12-24 23:17:47] | ����Ⱦ����ʷ8��̿�ң�����һ�������Ƴɶ������������Ķ�ħ����_��������_bilibili - Google Chrome
-[2023-12-24 23:17:48] | ����Ⱦ����ʷ4���ν�ˣ���ɫ���ߣ�ŷ���������������������_��������_bilibili - Google Chrome
-[2023-12-24 23:17:54] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
-[2023-12-24 23:18:07] | ����Ⱦ����ʷ4���ν�ˣ���ɫ���ߣ�ŷ���������������������_��������_bilibili - Google Chrome
-[2023-12-24 23:18:13] | MainWindow
-[2023-12-24 23:18:26] | 
-[2023-12-24 23:18:31] | Steam
-[2023-12-24 23:18:36] | ����Ⱦ����ʷ4���ν�ˣ���ɫ���ߣ�ŷ���������������������_��������_bilibili - Google Chrome
-[2023-12-24 23:18:40] | 
-[2023-12-24 23:18:40] | Steam
-[2023-12-24 23:18:46] | ����Ⱦ����ʷ4���ν�ˣ���ɫ���ߣ�ŷ���������������������_��������_bilibili - Google Chrome
-[2023-12-24 23:18:51] | 
-[2023-12-24 23:18:51] | �˵���
-[2023-12-24 23:18:56] | D:\
-[2023-12-24 23:19:01] | WPSͼƬ
-[2023-12-24 23:19:01] | ���ý�ͼ.jpg  WPSͼƬ
-[2023-12-24 23:19:09] | D:\
-[2023-12-24 23:19:10] | ����Ⱦ����ʷ4���ν�ˣ���ɫ���ߣ�ŷ���������������������_��������_bilibili - Google Chrome
-[2023-12-24 23:19:13] | 
-[2023-12-24 23:19:13] | ����Ա: Windows PowerShell
-[2023-12-24 23:20:51] | ����Ա: Windows PowerShell
+[2023-12-24 23:20:51] | ����Ա: Windows PowerShell
 [2023-12-24 23:20:54] | test1.py - AllMind - Visual Studio Code [Administrator]
 [2023-12-24 23:20:55] | active_window_log.txt - AllMind - Visual Studio Code [Administrator]
+[2023-12-25 16:16:45] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:16:48] | Google Chrome, Playground - OpenAI API - 内存用量 - 111 MB - Google Chrome
+[2023-12-25 16:18:26] | Google Chrome, no window
+[2023-12-25 16:18:27] | Google Chrome, Playground - OpenAI API - 内存用量 - 111 MB - Google Chrome
+[2023-12-25 16:18:45] | Google Chrome,
+[2023-12-25 16:18:45] | Google Chrome, Playground - OpenAI API - 内存用量 - 111 MB - Google Chrome
+[2023-12-25 16:19:43] | Google Chrome,
+[2023-12-25 16:19:43] | Google Chrome, Playground - OpenAI API - 内存用量 - 111 MB - Google Chrome
+[2023-12-25 16:19:53] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:20:00] | Google Chrome, Playground - OpenAI API - 内存用量 - 111 MB - Google Chrome
+[2023-12-25 16:20:03] | Error executing AppleScript
+[2023-12-25 16:20:04] | Google Chrome, Playground - OpenAI API - 内存用量 - 111 MB - Google Chrome
+[2023-12-25 16:20:14] | Google Chrome,
+[2023-12-25 16:20:15] | Google Chrome, Playground - OpenAI API - 内存用量 - 111 MB - Google Chrome
+[2023-12-25 16:20:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 110 MB - Google Chrome
+[2023-12-25 16:21:09] | Google Chrome,
+[2023-12-25 16:21:10] | Google Chrome, Playground - OpenAI API - 内存用量 - 110 MB - Google Chrome
+[2023-12-25 16:21:53] | Error executing AppleScript
+[2023-12-25 16:21:53] | Google Chrome, Playground - OpenAI API - 内存用量 - 110 MB - Google Chrome
+[2023-12-25 16:22:04] | Error executing AppleScript
+[2023-12-25 16:22:04] | Google Chrome, Playground - OpenAI API - 内存用量 - 110 MB - Google Chrome
+[2023-12-25 16:22:40] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:22:43] | Google Chrome, Playground - OpenAI API - 内存用量 - 110 MB - Google Chrome
+[2023-12-25 16:22:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 112 MB - Google Chrome
+[2023-12-25 16:24:18] | Google Chrome,
+[2023-12-25 16:24:18] | Google Chrome, Playground - OpenAI API - 内存用量 - 112 MB - Google Chrome
+[2023-12-25 16:24:42] | Error executing AppleScript
+[2023-12-25 16:24:43] | Google Chrome, Playground - OpenAI API - 内存用量 - 112 MB - Google Chrome
+[2023-12-25 16:24:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 114 MB - Google Chrome
+[2023-12-25 16:24:45] | Error executing AppleScript
+[2023-12-25 16:24:46] | Google Chrome, Playground - OpenAI API - 内存用量 - 114 MB - Google Chrome
+[2023-12-25 16:26:31] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:26:35] | Google Chrome, Playground - OpenAI API - 内存用量 - 114 MB - Google Chrome
+[2023-12-25 16:26:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 116 MB - Google Chrome
+[2023-12-25 16:27:27] | Google Chrome,
+[2023-12-25 16:27:28] | Google Chrome, Playground - OpenAI API - 内存用量 - 116 MB - Google Chrome
+[2023-12-25 16:28:17] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:28:30] | Google Chrome, Playground - OpenAI API - 内存用量 - 116 MB - Google Chrome
+[2023-12-25 16:28:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 118 MB - Google Chrome
+[2023-12-25 16:30:43] | Google Chrome,
+[2023-12-25 16:30:43] | Google Chrome, Playground - OpenAI API - 内存用量 - 118 MB - Google Chrome
+[2023-12-25 16:30:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 115 MB - Google Chrome
+[2023-12-25 16:31:28] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:31:34] | Google Chrome, Playground - OpenAI API - 内存用量 - 115 MB - Google Chrome
+[2023-12-25 16:32:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 117 MB - Google Chrome
+[2023-12-25 16:33:13] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:33:13] | Google Chrome, Playground - OpenAI API - 内存用量 - 117 MB - Google Chrome
+[2023-12-25 16:33:26] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:33:33] | Google Chrome, Playground - OpenAI API - 内存用量 - 117 MB - Google Chrome
+[2023-12-25 16:34:11] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:34:25] | Electron, readme_writer_chatgpt.py �? AllMind
+[2023-12-25 16:34:28] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:34:36] | Google Chrome, Playground - OpenAI API - 内存用量 - 117 MB - Google Chrome
+[2023-12-25 16:34:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 118 MB - Google Chrome
+[2023-12-25 16:35:04] | Electron, note.md �? AllMind
+[2023-12-25 16:35:10] | Google Chrome, Playground - OpenAI API - 内存用量 - 118 MB - Google Chrome
+[2023-12-25 16:35:13] | Electron, note.md �? AllMind
+[2023-12-25 16:35:38] | Electron, 预�?? note.md �? AllMind
+[2023-12-25 16:35:44] | Electron, note.md �? AllMind
+[2023-12-25 16:35:57] | Electron, active_window_log.txt �? AllMind
+[2023-12-25 16:36:25] | Electron, note.md — AllMind
+[2023-12-25 16:37:47] | Google Chrome, Playground - OpenAI API - 内存用量 - 118 MB - Google Chrome
+[2023-12-25 16:38:28] | Google Chrome,
+[2023-12-25 16:38:28] | Google Chrome, Playground - OpenAI API - 内存用量 - 118 MB - Google Chrome
+[2023-12-25 16:38:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:39:05] | Google Chrome, no window
+[2023-12-25 16:39:05] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:39:09] | Error executing AppleScript
+[2023-12-25 16:39:09] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:39:21] | Google Chrome,
+[2023-12-25 16:39:21] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:39:26] | Google Chrome,
+[2023-12-25 16:39:26] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:39:33] | Google Chrome,
+[2023-12-25 16:39:34] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:40:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 117 MB - Google Chrome
+[2023-12-25 16:40:58] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:41:14] | Google Chrome, Playground - OpenAI API - 内存用量 - 117 MB - Google Chrome
+[2023-12-25 16:42:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:43:02] | Google Chrome, no window
+[2023-12-25 16:43:03] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:43:04] | Google Chrome,
+[2023-12-25 16:43:05] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:44:13] | Error executing AppleScript
+[2023-12-25 16:44:13] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 16:44:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 123 MB - Google Chrome
+[2023-12-25 16:46:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 16:46:50] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:46:55] | Google Chrome, Playground - OpenAI API - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 16:47:13] | Google Chrome, 新标签页 - Google Chrome
+[2023-12-25 16:47:17] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:47:20] | Google Chrome, 新标签页 - 内存用量 - 81.5 MB - Google Chrome
+[2023-12-25 16:47:22] | Google Chrome, bili - Google 搜索 - Google Chrome
+[2023-12-25 16:47:24] | Google Chrome, 无标题 - Google Chrome
+[2023-12-25 16:47:25] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Google Chrome
+[2023-12-25 16:47:27] | Google Chrome, 无标题 - Google Chrome
+[2023-12-25 16:47:28] | Google Chrome, 你是想被永远困在同一天获得永生，还是逃到现实？《死亡循环》赏析【电子羊尾17】_游戏杂谈 - Google Chrome
+[2023-12-25 16:47:30] | Google Chrome, 你是想被永远困在同一天获得永生，还是逃到现实？《死亡循环》赏析【电子羊尾17】_游戏杂谈 - 正在播放音频 - 内存用量 - 202 MB - Google Chrome
+[2023-12-25 16:47:36] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:47:40] | Google Chrome, Playground - OpenAI API - 内存用量 - 121 MB - Google Chrome
+[2023-12-25 16:47:53] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:47:58] | Google Chrome, Playground - OpenAI API - 内存用量 - 121 MB - Google Chrome
+[2023-12-25 16:48:15] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:48:17] | Google Chrome, Playground - OpenAI API - 内存用量 - 121 MB - Google Chrome
+[2023-12-25 16:49:37] | Google Chrome, Playground - OpenAI API - 内存用量 - 128 MB - Google Chrome
+[2023-12-25 16:50:23] | Error executing AppleScript
+[2023-12-25 16:50:23] | Google Chrome, Playground - OpenAI API - 内存用量 - 128 MB - Google Chrome
+[2023-12-25 16:51:37] | Google Chrome, Playground - OpenAI API - 内存用量 - 125 MB - Google Chrome
+[2023-12-25 16:51:48] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:51:48] | Google Chrome, Playground - OpenAI API - 内存用量 - 125 MB - Google Chrome
+[2023-12-25 16:52:03] | Google Chrome,
+[2023-12-25 16:52:03] | Google Chrome, Playground - OpenAI API - 内存用量 - 125 MB - Google Chrome
+[2023-12-25 16:53:37] | Google Chrome, Playground - OpenAI API - 内存用量 - 124 MB - Google Chrome
+[2023-12-25 16:53:59] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:54:04] | Google Chrome, Playground - OpenAI API - 内存用量 - 124 MB - Google Chrome
+[2023-12-25 16:54:32] | Google Chrome,
+[2023-12-25 16:54:32] | Google Chrome, Playground - OpenAI API - 内存用量 - 124 MB - Google Chrome
+[2023-12-25 16:54:52] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:54:56] | Google Chrome, Playground - OpenAI API - 内存用量 - 124 MB - Google Chrome
+[2023-12-25 16:55:37] | Google Chrome, Playground - OpenAI API - 内存用量 - 127 MB - Google Chrome
+[2023-12-25 16:55:50] | Electron, active_window_log.txt — AllMind
+[2023-12-25 16:55:53] | Google Chrome, Playground - OpenAI API - 内存用量 - 127 MB - Google Chrome
+[2023-12-25 16:56:59] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 225 MB - Google Chrome
+[2023-12-25 16:57:48] | Google Chrome, 新标签页 - Google Chrome
+[2023-12-25 16:57:51] | Google Chrome, 新标签页 - 内存用量 - 83.6 MB - Google Chrome
+[2023-12-25 16:57:54] | Error executing AppleScript
+[2023-12-25 16:57:55] | Google Chrome, 新标签页 - 内存用量 - 83.6 MB - Google Chrome
+[2023-12-25 16:57:59] | Google Chrome, gpt prompt大全 - Google 搜索 - Google Chrome
+[2023-12-25 16:58:02] | Google Chrome, 无标题 - Google Chrome
+[2023-12-25 16:58:04] | Google Chrome, gpt prompt大全 - Google 搜索 - Google Chrome
+[2023-12-25 16:58:05] | Google Chrome, Prompt 大全 - Google Chrome
+[2023-12-25 16:58:08] | Google Chrome, Prompt 大全 - 内存用量 - 91.8 MB - Google Chrome
+[2023-12-25 16:58:32] | Google Chrome, gpt prompt大全 - Google 搜索 - 内存用量 - 140 MB - Google Chrome
+[2023-12-25 16:58:33] | Google Chrome, 你是想被永远困在同一天获得永生，还是逃到现实？《死亡循环》赏析【电子羊尾17】_游戏杂谈 - 正在播放音频 - 内存用量 - 272 MB - Google Chrome
+[2023-12-25 16:58:34] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 218 MB - Google Chrome
+[2023-12-25 16:58:38] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 232 MB - Google Chrome
+[2023-12-25 16:58:49] | Google Chrome, Prompt 大全 - 内存用量 - 172 MB - Google Chrome
+[2023-12-25 16:58:52] | Google Chrome, ChatHub - Google Chrome
+[2023-12-25 16:58:53] | Google Chrome, Prompt 大全 - 内存用量 - 172 MB - Google Chrome
+[2023-12-25 16:58:55] | Google Chrome, ChatHub - Google Chrome
+[2023-12-25 16:58:56] | Google Chrome, ChatHub - 内存用量 - 76.0 MB - Google Chrome
+[2023-12-25 17:00:05] | Google Chrome,
+[2023-12-25 17:00:05] | Google Chrome, ChatHub - 内存用量 - 76.0 MB - Google Chrome
+[2023-12-25 17:00:41] | Google Chrome,
+[2023-12-25 17:00:41] | Google Chrome, ChatHub - 内存用量 - 76.0 MB - Google Chrome
+[2023-12-25 17:00:43] | Google Chrome,
+[2023-12-25 17:00:43] | Google Chrome, ChatHub - 内存用量 - 76.0 MB - Google Chrome
+[2023-12-25 17:00:55] | Google Chrome, OpenAI - 内存用量 - 91.8 MB - Google Chrome
+[2023-12-25 17:00:56] | Google Chrome, Playground - OpenAI API - 内存用量 - 128 MB - Google Chrome
+[2023-12-25 17:00:56] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 17:00:59] | Google Chrome, ChatHub - 内存用量 - 115 MB - Google Chrome
+[2023-12-25 17:01:02] | Google Chrome, OpenAI - 内存用量 - 101 MB - Google Chrome
+[2023-12-25 17:01:04] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 17:01:09] | Google Chrome, ChatHub - 内存用量 - 115 MB - Google Chrome
+[2023-12-25 17:01:11] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 17:01:16] | Google Chrome, ChatHub - 内存用量 - 115 MB - Google Chrome
+[2023-12-25 17:02:56] | Google Chrome, ChatHub - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 17:02:59] | Electron, active_window_log.txt — AllMind
+[2023-12-25 17:03:05] | Google Chrome, ChatHub - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 17:03:17] | Google Chrome, no window
+[2023-12-25 17:03:18] | Google Chrome, ChatHub - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 17:04:53] | Google Chrome, Playground - OpenAI API - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 17:04:56] | Google Chrome, Playground - OpenAI API - 内存用量 - 118 MB - Google Chrome
+[2023-12-25 17:04:58] | Google Chrome, 你是想被永远困在同一天获得永生，还是逃到现实？《死亡循环》赏析【电子羊尾17】_游戏杂谈 - 正在播放音频 - 内存用量 - 275 MB - Google Chrome
+[2023-12-25 17:04:59] | Google Chrome, Prompt 大全 - 内存用量 - 170 MB - Google Chrome
+[2023-12-25 17:05:00] | Google Chrome, ChatHub - 内存用量 - 144 MB - Google Chrome
+[2023-12-25 17:05:01] | Google Chrome, gpt prompt大全 - Google 搜索 - 内存用量 - 165 MB - Google Chrome
+[2023-12-25 17:05:02] | Google Chrome, 你是想被永远困在同一天获得永生，还是逃到现实？《死亡循环》赏析【电子羊尾17】_游戏杂谈 - 正在播放音频 - 内存用量 - 275 MB - Google Chrome
+[2023-12-25 17:05:04] | Google Chrome, Playground - OpenAI API - 内存用量 - 118 MB - Google Chrome
+[2023-12-25 17:05:06] | Google Chrome, 你是想被永远困在同一天获得永生，还是逃到现实？《死亡循环》赏析【电子羊尾17】_游戏杂谈 - 正在播放音频 - 内存用量 - 275 MB - Google Chrome
+[2023-12-25 17:05:07] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - 内存用量 - 160 MB - Google Chrome
+[2023-12-25 17:05:08] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 221 MB - Google Chrome
+[2023-12-25 17:05:11] | Google Chrome, ChatHub - 内存用量 - 144 MB - Google Chrome
+[2023-12-25 17:05:57] | Google Chrome,
+[2023-12-25 17:05:58] | Google Chrome, ChatHub - 内存用量 - 144 MB - Google Chrome
+[2023-12-25 17:06:42] | Google Chrome, Playground - OpenAI API - 内存用量 - 118 MB - Google Chrome
+[2023-12-25 17:06:56] | Google Chrome, Playground - OpenAI API - 内存用量 - 123 MB - Google Chrome
+[2023-12-25 17:08:56] | Google Chrome, Playground - OpenAI API - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 17:09:51] | Electron, active_window_log.txt — AllMind
+[2023-12-25 17:09:55] | Google Chrome, Playground - OpenAI API - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 17:10:03] | Electron, active_window_log.txt — AllMind
+[2023-12-25 17:10:07] | Google Chrome, Playground - OpenAI API - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 17:10:15] | Electron, active_window_log.txt — AllMind
+[2023-12-25 17:10:24] | Google Chrome, Playground - OpenAI API - 内存用量 - 120 MB - Google Chrome
+[2023-12-25 17:10:56] | Google Chrome, Playground - OpenAI API - 内存用量 - 121 MB - Google Chrome
+[2023-12-25 17:11:15] | Google Chrome, OpenAI - 内存用量 - 102 MB - Google Chrome
+[2023-12-25 17:11:16] | Google Chrome, Playground - OpenAI API - 内存用量 - 121 MB - Google Chrome
+[2023-12-25 17:11:17] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 215 MB - Google Chrome
+[2023-12-25 17:11:19] | Google Chrome, ChatHub - 内存用量 - 143 MB - Google Chrome
+[2023-12-25 17:11:20] | Google Chrome, Prompt 大全 - 内存用量 - 151 MB - Google Chrome
+[2023-12-25 17:11:22] | Google Chrome, Playground - OpenAI API - 内存用量 - 121 MB - Google Chrome
+[2023-12-25 17:11:31] | Google Chrome, ChatHub - 内存用量 - 143 MB - Google Chrome
+[2023-12-25 17:12:06] | Google Chrome, 【IGN】10分，《死亡循环》评测：独一无二的全新标杆之作 - 正在播放音频 - 内存用量 - 274 MB - Google Chrome
+[2023-12-25 17:12:09] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - 内存用量 - 163 MB - Google Chrome
+[2023-12-25 17:12:15] | Electron, active_window_log.txt — AllMind
+[2023-12-25 17:12:20] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - 内存用量 - 163 MB - Google Chrome
+[2023-12-25 17:12:56] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - 内存用量 - 265 MB - Google Chrome
+[2023-12-25 17:13:03] | Google Chrome, gpt prompt大全 - Google 搜索 - 内存用量 - 133 MB - Google Chrome
+[2023-12-25 17:13:04] | Google Chrome, ChatHub - 内存用量 - 144 MB - Google Chrome
+[2023-12-25 17:13:05] | Google Chrome, Playground - OpenAI API - 内存用量 - 122 MB - Google Chrome
+[2023-12-25 17:13:20] | Google Chrome, openai - Google 搜索 - 内存用量 - 232 MB - Google Chrome
+[2023-12-25 17:13:25] | Google Chrome, OpenAI - Google Chrome
+[2023-12-25 17:13:26] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - 内存用量 - 265 MB - Google Chrome
+[2023-12-25 17:13:34] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - 内存用量 - 273 MB - Google Chrome
+[2023-12-25 17:13:37] | Google Chrome, 无标题 - Google Chrome
+[2023-12-25 17:13:38] | Google Chrome, search.bilibili.com/all?keyword=openai assistant&from_source=webtop_search&spm_id_from=333.1007&search_source=5 - Google Chrome
+[2023-12-25 17:13:38] | Google Chrome, openai assistant-哔哩哔哩_Bilibili - Google Chrome
+[2023-12-25 17:13:41] | Google Chrome, 无标题 - Google Chrome
+[2023-12-25 17:13:42] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - Google Chrome
+[2023-12-25 17:13:44] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 内存用量 - 229 MB - Google Chrome
+[2023-12-25 17:13:44] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 229 MB - Google Chrome
+[2023-12-25 17:13:49] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 372 MB - Google Chrome
+[2023-12-25 17:15:39] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 内存用量 - 372 MB - Google Chrome
+[2023-12-25 17:15:45] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 372 MB - Google Chrome
+[2023-12-25 17:15:48] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 330 MB - Google Chrome
+[2023-12-25 17:17:49] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 329 MB - Google Chrome
+[2023-12-25 17:19:48] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 323 MB - Google Chrome
+[2023-12-25 17:20:37] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 内存用量 - 323 MB - Google Chrome
+[2023-12-25 17:21:48] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 内存用量 - 275 MB - Google Chrome
+[2023-12-25 17:22:02] | Google Chrome, gpt prompt大全 - Google 搜索 - 内存用量 - 199 MB - Google Chrome
+[2023-12-25 17:22:03] | Google Chrome, ChatHub - 内存用量 - 143 MB - Google Chrome
+[2023-12-25 17:22:06] | Google Chrome, Playground - OpenAI API - 内存用量 - 119 MB - Google Chrome
+[2023-12-25 17:22:07] | Google Chrome, OpenAI - 内存用量 - 101 MB - Google Chrome
+[2023-12-25 17:22:09] | Google Chrome, 无标题 - Google Chrome
+[2023-12-25 17:22:10] | Google Chrome, OpenAI Platform - Google Chrome
+[2023-12-25 17:22:13] | Google Chrome, Overview - OpenAI API - Google Chrome
+[2023-12-25 17:22:16] | Google Chrome, Overview - OpenAI API - 内存用量 - 254 MB - Google Chrome
+[2023-12-25 17:22:18] | Google Chrome, Text to speech - OpenAI API - 内存用量 - 254 MB - Google Chrome
+[2023-12-25 17:22:35] | Google Chrome, Moderation - OpenAI API - 内存用量 - 254 MB - Google Chrome
+[2023-12-25 17:22:40] | Google Chrome, Assistants tools - OpenAI API - 内存用量 - 254 MB - Google Chrome
+[2023-12-25 17:22:50] | Google Chrome, 助手工具 - OpenAI API - 内存用量 - 254 MB - Google Chrome
+[2023-12-25 17:24:16] | Google Chrome, 助手工具 - OpenAI API - 内存用量 - 175 MB - Google Chrome
+[2023-12-25 17:24:40] | Google Chrome, How Assistants work - OpenAI API - 内存用量 - 175 MB - Google Chrome
+[2023-12-25 17:25:05] | Google Chrome, Assistants tools - OpenAI API - 内存用量 - 175 MB - Google Chrome
+[2023-12-25 17:25:12] | Google Chrome, no window
+[2023-12-25 17:25:13] | Google Chrome, Assistants tools - OpenAI API - 内存用量 - 175 MB - Google Chrome
+[2023-12-25 17:25:18] | Google Chrome, Assistants overview - OpenAI API - 内存用量 - 175 MB - Google Chrome
+[2023-12-25 17:26:16] | Google Chrome, Assistants overview - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:26:58] | Google Chrome, Actions - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:27:12] | Google Chrome, Introduction - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:27:28] | Google Chrome, Usage - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:27:56] | Google Chrome, Organization settings - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:27:58] | Google Chrome, Billing overview - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:28:03] | Google Chrome, Overview - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:28:08] | Google Chrome, API Reference - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:28:10] | Google Chrome, Overview - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:28:13] | Google Chrome, Assistants - OpenAI API - 内存用量 - 176 MB - Google Chrome
+[2023-12-25 17:28:16] | Google Chrome, Assistants - OpenAI API - 内存用量 - 376 MB - Google Chrome
+[2023-12-25 17:28:24] | Google Chrome, OpenAI API - 内存用量 - 376 MB - Google Chrome
+[2023-12-25 17:28:30] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - 内存用量 - 159 MB - Google Chrome
+[2023-12-25 17:28:31] | Google Chrome, openai assistant-哔哩哔哩_Bilibili - 内存用量 - 113 MB - Google Chrome
+[2023-12-25 17:28:33] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 内存用量 - 607 MB - Google Chrome
+[2023-12-25 17:28:42] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 607 MB - Google Chrome
+[2023-12-25 17:28:43] | Google Chrome, OpenAI最近发布的Assistant API究竟是什么？_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 607 MB - Google Chrome
+[2023-12-25 17:29:07] | Google Chrome, 【教程】快速上手 Assistant API_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 607 MB - Google Chrome
+[2023-12-25 17:29:11] | Google Chrome, 【教程】快速上手 OpenAI GPTs：分分钟创建你的专属 GPT_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 607 MB - Google Chrome
+[2023-12-25 17:30:16] | Google Chrome, 【教程】快速上手 OpenAI GPTs：分分钟创建你的专属 GPT_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 327 MB - Google Chrome
+[2023-12-25 17:32:16] | Google Chrome, 【教程】快速上手 OpenAI GPTs：分分钟创建你的专属 GPT_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 334 MB - Google Chrome
+[2023-12-25 17:33:08] | Electron, note.md — AllMind
+[2023-12-25 17:33:11] | Electron, active_window_log.txt — AllMind
