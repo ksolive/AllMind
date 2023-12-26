@@ -55,7 +55,7 @@ def write_log_to_file(logfile_path, log_entries):
         log_file.writelines(log_entries)
         log_file.flush()
 
-def log_active_window_change(logfile_path, buffer_size=10, buffer_time_limit=5):
+def log_active_window_change(logfile_path='active_window_log.txt', buffer_size=10, buffer_time_limit=5):
     log_entries = []
     last_window = ""
     last_write_time = time.time()

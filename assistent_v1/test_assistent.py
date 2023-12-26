@@ -82,6 +82,8 @@ funcs = [get_city_for_date, search_oline, get_dalle_image]
 
 def test():
     # assistant_id = create_assistant
+    assistant_name = "raavi"
+    assistant_id = create_assistant(assistant_name)
     thread_id = create_thread(debug=DEBUG)
     while(True):
         user_input = input("\n-------user-------\n")

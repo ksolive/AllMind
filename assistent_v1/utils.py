@@ -3,18 +3,49 @@ import re
 import json
 import time
 from openai import OpenAI
-import base64
-import requests
-import random
-import datetime
+import glob
 from key import OPENAI_API_KEY, GOOGLE_API_KEY, SEARCH_ENGINE_ID
+import playsound
 
 
 # <script async src="https://cse.google.com/cse.js?cx=470eb62025ea0427f">
 # </script>
 # <div class="gcse-search"></div>
 
+def read_and_clear_file(file_path, max_length):
+    try:
+        with open(file_path, 'r+', encoding='utf-8') as file:
+            content = file.read()
+
+            # 将文件内容截断为空
+            file.seek(0)
+            file.truncate(0)
+
+            return content[:max_length] if len(content) > max_length else content
+    except FileNotFoundError:
+        return "File not found"
+    except Exception as e:
+        return f"Error: {e}"
+
 # 实例化 OpenAI 客户端
+def play_and_delete_mp3(directory):
+    while True:
+        mp3_files = glob.glob(os.path.join(directory, '*.mp3'))
+        
+        if mp3_files:
+            # 找到最新的MP3文件并播放
+            newest_mp3 = max(mp3_files, key=os.path.getctime)
+            print(f"发现新的MP3文件: {newest_mp3}")
+            
+            # 播放MP3文件
+            playsound.playsound(newest_mp3)
+            
+            # 播放完毕后删除文件
+            os.remove(newest_mp3)
+            print(f"播放并删除文件: {newest_mp3}")
+        
+        time.sleep(0.1)  # 休眠一段时间后重新检查
+
 client = OpenAI(api_key=OPENAI_API_KEY, timeout=600)
 
 # 创建或加载 Assistant
@@ -185,132 +216,68 @@ def get_completion(assistant_id, thread_id, user_input, funcs, debug=False):
                 print(message)
             return message
 
-def get_dalle_image(prompt):
-    """
-    Generate an image based on a given prompt using the DALL-E model.
+# def get_city_list():
+#     """
+#     Retrieves a list of city names from a JSON file and returns the shuffled list.
 
-    Parameters:
-    - prompt (str): The prompt for generating the image.
-
-    Returns:
-    - img_file_path (str): The file path of the generated image.
-    """
-    client = OpenAI(api_key=OPENAI_API_KEY)
-    # 获取当前时间戳
-    timestamp = int(time.time())
-    response = client.images.generate(
-        model="dall-e-3",
-        prompt=prompt,
-        n=1,
-        quality="hd",
-        size="1792x1024",
-        # style="natural",
-        response_format='b64_json',
-    )
-    img_b64 = response.data[0].b64_json
-    # 保存图片
-    img_name = f"{timestamp}.png"
-    img_file_path = f"imgs/{img_name}"
-    with open(img_file_path, "wb") as f:
-        f.write(base64.b64decode(img_b64))
-    # 绘制图片
-    # imgs = base64_to_img(img_b64)
-    # plt.imshow(imgs)
-    # plt.axis('off')
-    # plt.show()
-    return {"image": "/imgs/" + img_name}
-
-def search_oline(question):
-
-    base_url = "https://www.googleapis.com/customsearch/v1"
-    params = {
-        'key': GOOGLE_API_KEY,
-        'cx': SEARCH_ENGINE_ID,
-        'q': question,
-        'num': 3  # 限制搜索结果数量为3
-    }
-    try:
-        response = requests.get(base_url, params=params)
-        results = response.json()
-        search_data = {
-            "search_query": question,
-            "total_results": results['searchInformation']['totalResults'],
-            "results": []
-        }
-        if 'items' in results:
-            for item in results['items']:
-                result_item = {
-                    "title": item['title'],
-                    "link": item['link'],
-                    "snippet": item.get('snippet', '')
-                }
-                search_data["results"].append(result_item)
-        return search_data
-    except Exception as e:
-        return {"error": f"An error occurred: {e}"}
-
-def get_city_list():
-    """
-    Retrieves a list of city names from a JSON file and returns the shuffled list.
-
-    Returns:
-        list: A list of city names.
-    """
-    city_list = []
-    with open('/Users/ksolive/Documents/LittleInteresting/AllMind/test_assistent/files/city.json', 'r') as f:
-        data = json.load(f)
-        for province in data['provinces']:
-            for city in province['citys']:
-                city_list.append(city['cityName'])
-    random.shuffle(city_list)
-    return city_list
+#     Returns:
+#         list: A list of city names.
+#     """
+#     city_list = []
+#     with open('/Users/ksolive/Documents/LittleInteresting/AllMind/test_assistent/files/city.json', 'r') as f:
+#         data = json.load(f)
+#         for province in data['provinces']:
+#             for city in province['citys']:
+#                 city_list.append(city['cityName'])
+#     random.shuffle(city_list)
+#     return city_list
 
 
-def generate_city_mapping(year):
-    """
-    Generates a mapping of dates to cities based on the given year.
+# def generate_city_mapping(year):
+#     """
+#     Generates a mapping of dates to cities based on the given year.
 
-    Parameters:
-        year (int): The year for which the mapping needs to be generated.
+#     Parameters:
+#         year (int): The year for which the mapping needs to be generated.
 
-    Returns:
-        dict: A dictionary containing the mapping of dates to cities.
-    """
-    city_mapping = {}
-    city_list = get_city_list()
-    start_date = datetime.date(year, 1, 1)
-    end_date = datetime.date(year, 12, 31)
-    delta = datetime.timedelta(days=1)
-    current_date = start_date
-    while current_date <= end_date:
-        city_mapping[current_date] = city_list[current_date.timetuple().tm_yday % len(city_list) - 1]
-        current_date += delta
-    return city_mapping
+#     Returns:
+#         dict: A dictionary containing the mapping of dates to cities.
+#     """
+#     city_mapping = {}
+#     city_list = get_city_list()
+#     start_date = datetime.date(year, 1, 1)
+#     end_date = datetime.date(year, 12, 31)
+#     delta = datetime.timedelta(days=1)
+#     current_date = start_date
+#     while current_date <= end_date:
+#         city_mapping[current_date] = city_list[current_date.timetuple().tm_yday % len(city_list) - 1]
+#         current_date += delta
+#     return city_mapping
 
 
-def get_city_for_date(date_str):
-    """
-    Given a date string, this function returns the corresponding city for that date.
+# def get_city_for_date(date_str):
+#     """
+#     Given a date string, this function returns the corresponding city for that date.
 
-    Args:
-        date_str (str): A string representing a date in the format "YYYY-MM-DD".
+#     Args:
+#         date_str (str): A string representing a date in the format "YYYY-MM-DD".
 
-    Returns:
-        str: The city corresponding to the given date.
+#     Returns:
+#         str: The city corresponding to the given date.
 
-    Raises:
-        ValueError: If the date string is not in the correct format.
+#     Raises:
+#         ValueError: If the date string is not in the correct format.
 
-    Examples:
-        >>> get_city_for_date("2022-01-01")
-        '烟台市'
-        >>> get_city_for_date("2022-12-25")
-        '北京市'
-    """
-    date_format = "%Y-%m-%d"
-    try:
-        input_date = datetime.datetime.strptime(date_str, date_format).date()
-    except ValueError:
-        return "无效日期格式。请使用YYYY-MM-DD格式。"
-    year_mapping = generate_city_mapping(input_date.year)
-    return year_mapping.get(input_date, "日期不在当前年份内")
+#     Examples:
+#         >>> get_city_for_date("2022-01-01")
+#         '烟台市'
+#         >>> get_city_for_date("2022-12-25")
+#         '北京市'
+#     """
+#     date_format = "%Y-%m-%d"
+#     try:
+#         input_date = datetime.datetime.strptime(date_str, date_format).date()
+#     except ValueError:
+#         return "无效日期格式。请使用YYYY-MM-DD格式。"
+#     year_mapping = generate_city_mapping(input_date.year)
+#     return year_mapping.get(input_date, "日期不在当前年份内")
