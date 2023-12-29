@@ -34,7 +34,7 @@ def get_active_window_info_mac():
         result = subprocess.run(['osascript', '-e', script], capture_output=True, text=True)
         if result.returncode == 0:
             output = result.stdout.strip()
-            print(output)
+            # print(output)
             return output
         else:
             return "Error executing AppleScript"
@@ -62,6 +62,7 @@ def log_active_window_change(logfile_path='active_window_log.txt', buffer_size=1
     
     while True:
         current_time = time.time()
+        # print(current_time)
         active_window_title = get_active_window_title()
         
         if active_window_title != last_window:
@@ -77,7 +78,7 @@ def log_active_window_change(logfile_path='active_window_log.txt', buffer_size=1
         time.sleep(0.1)
 
 # Provide a file path for your log file
-log_file_path = 'active_window_log.txt'
-buffer_size = 10
-buffer_time_limit = 5
-log_active_window_change(log_file_path, buffer_size, buffer_time_limit)
+# log_file_path = 'active_window_log.txt'
+# buffer_size = 10
+# buffer_time_limit = 5
+# log_active_window_change(log_file_path, buffer_size, buffer_time_limit)

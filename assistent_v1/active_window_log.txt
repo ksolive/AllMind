@@ -1,0 +1,37 @@
+[2023-12-29 11:01:43] | Electron, main.py — AllMind
+[2023-12-29 11:07:29] | Electron, main.py — AllMind
+[2023-12-29 11:13:55] | Electron, main.py — AllMind
+[2023-12-29 11:28:04] | Electron, main.py — AllMind
+[2023-12-29 11:28:07] | Electron, key.cpython-39.pyc — AllMind
+[2023-12-29 11:28:08] | Electron, utils.cpython-39.pyc — AllMind
+[2023-12-29 11:28:09] | Electron, window_recoard_v1.cpython-39.pyc — AllMind
+[2023-12-29 11:28:16] | Google Chrome, ChatHub - 内存用量 - 144 MB - Google Chrome
+[2023-12-29 11:35:03] | Electron, window_recoard_v1.py — AllMind
+[2023-12-29 11:42:30] | Electron, key.py — AllMind
+[2023-12-29 11:44:47] | Electron, func.py — AllMind
+[2023-12-29 11:46:25] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 256 MB - Google Chrome
+[2023-12-29 11:46:49] | Electron, func.py — AllMind
+[2023-12-29 11:47:02] | Google Chrome, 新标签页 - Google Chrome
+[2023-12-29 11:47:04] | Google Chrome, google.com/search?q=edge_tts&oq=edge_tts&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzkxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8 - Google Chrome
+[2023-12-29 11:47:04] | Google Chrome, edge_tts - Google 搜索 - Google Chrome
+[2023-12-29 11:47:09] | Google Chrome, edge_tts - Google 搜索 - 内存用量 - 149 MB - Google Chrome
+[2023-12-29 11:47:11] | Google Chrome, 无标题 - Google Chrome
+[2023-12-29 11:47:12] | Google Chrome, edge_tts - Google 搜索 - 内存用量 - 149 MB - Google Chrome
+[2023-12-29 11:47:14] | Google Chrome, 无标题 - Google Chrome
+[2023-12-29 11:47:16] | Google Chrome, hasscc/hass-edge-tts: 🗣️ Microsoft Edge TTS for Home Assistant, no need for app_key - Google Chrome
+[2023-12-29 11:47:20] | Google Chrome, hasscc/hass-edge-tts: 🗣️ Microsoft Edge TTS for Home Assistant, no need for app_key - 内存用量 - 138 MB - Google Chrome
+[2023-12-29 11:47:26] | Google Chrome, hasscc/hass-edge-tts: 🗣️ Microsoft Edge TTS for Home Assistant, no need for app_key - 内存用量 - 134 MB - Google Chrome
+[2023-12-29 11:47:28] | Google Chrome, Python + edge-tts：一行代码，让你的文本轻松变成语音！ - 简书 - 内存用量 - 109 MB - Google Chrome
+[2023-12-29 11:47:39] | Google Chrome, edge_tts - Google 搜索 - 内存用量 - 177 MB - Google Chrome
+[2023-12-29 11:47:46] | Electron, func.py — AllMind
+[2023-12-29 11:47:51] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 264 MB - Google Chrome
+[2023-12-29 11:47:55] | Electron, func.py — AllMind
+[2023-12-29 11:48:00] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 264 MB - Google Chrome
+[2023-12-29 11:48:02] | Electron, func.py — AllMind
+[2023-12-29 11:48:08] | Google Chrome, edge_tts - Google 搜索 - 内存用量 - 177 MB - Google Chrome
+[2023-12-29 11:48:11] | Google Chrome, 无标题 - Google Chrome
+[2023-12-29 11:48:12] | Google Chrome, 口播神器,基于Edge,微软TTS(text-to-speech)文字转语音免费开源库edge-tts实践(Python3.10) - 知乎 - Google Chrome
+[2023-12-29 11:48:17] | Electron, func.py — AllMind
+[2023-12-29 11:51:36] | Electron, func.py — AllMind
+[2023-12-29 11:52:01] | Google Chrome, Playground - OpenAI API - 内存用量 - 107 MB - Google Chrome
+[2023-12-29 11:52:24] | Electron, func.py — AllMind

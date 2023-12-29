@@ -261,3 +261,5 @@
 [2023-12-25 17:32:16] | Google Chrome, 【教程】快速上手 OpenAI GPTs：分分钟创建你的专属 GPT_哔哩哔哩_bilibili - 正在播放音频 - 内存用量 - 334 MB - Google Chrome
 [2023-12-25 17:33:08] | Electron, note.md — AllMind
 [2023-12-25 17:33:11] | Electron, active_window_log.txt — AllMind
+[2023-12-29 11:06:13] | Electron, main.py — AllMind
+[2023-12-29 11:06:44] | Electron, main.py — AllMind

@@ -26,23 +26,12 @@ from utils import create_assistant, create_thread, get_completion, play_and_dele
 from window_recoard_v1 import log_active_window_change
 from func import tts, draw, search
 
-# 记录程序
-def log_active_window_change(logfile_path, buffer_size, buffer_time_limit):
-    # 实现记录程序的逻辑
-    pass
+import pdb
 
-# 创建对话线程
-def create_thread(debug):
-    # 实现创建对话线程的逻辑
-    pass
-
-# 获取 GPT 完成的输出
-def get_completion(assistant_id, thread_id, user_input, funcs, debug):
-    # 实现与 GPT 交互的逻辑
-    pass
 
 # 主循环函数
 def main_loop():
+    # print("debug1")
     logfile_path = 'active_window_log.txt'
     buffer_size = 10
     buffer_time_limit = 5
@@ -55,15 +44,17 @@ def main_loop():
 
     # 开始记录
     log_thread = threading.Thread(target=log_active_window_change, args=(logfile_path, buffer_size, buffer_time_limit))
-    log_thread.start()
+    log_thread.daemon = True
     # 开声带
     voice_thread = threading.Thread(target=play_and_delete_mp3, args=(voice_dir,))
-    voice_thread.start()
+    voice_thread.daemon = True
     # 开一个会话
     thread_id = create_thread(debug)
     # 开始计时
     start_time = time.time()
-
+    log_thread.start()
+    voice_thread.start()
+    print("hello")
     while True:
         # 记录输入
         user_input = input("\n--------user--------\n")
@@ -85,6 +76,7 @@ def main_loop():
         time.sleep(1)  # 暂停1秒钟，避免循环过于频繁
 
 
-
-if __name__ == "__main__":
-    main_loop()
+# pdb.set_trace()
+# print("debug2")
+# pdb.set_trace()
+main_loop()

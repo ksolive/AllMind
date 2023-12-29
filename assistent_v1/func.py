@@ -85,9 +85,9 @@ def get_max_index(directory):
             pass
     return max(indices)
 
-def tts(TEXT, VOICE="zh-CN-XiaoyiNeural", OUTPUT_DIR="voice"):
+async def tts(sentence, VOICE="zh-CN-XiaoyiNeural", OUTPUT_DIR="voice"):
     max_index = get_max_index(OUTPUT_DIR)
     new_index = max_index + 1
     new_filename = f"tts_{new_index}.mp3"
-    communicate = edge_tts.Communicate(TEXT, VOICE)  
-    communicate.save(new_filename) 
+    communicate = edge_tts.Communicate(sentence, VOICE)  
+    await communicate.save(new_filename) 
