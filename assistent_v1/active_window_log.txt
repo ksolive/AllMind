@@ -119,3 +119,76 @@
 [2023-12-30 15:57:19] | Google Chrome, 虚拟桌宠模拟器 - Google 搜索 - 内存用量 - 226 MB - Google Chrome
 [2023-12-30 15:57:33] | Google Chrome, github - Google 搜索 - Google Chrome
 [2023-12-30 15:57:35] | Electron, utils.py — AllMind
+[2023-12-30 15:58:06] | Google Chrome, 无标题 - Google Chrome
+[2023-12-30 15:58:08] | Google Chrome, GitHub - Google Chrome
+[2023-12-30 15:58:12] | Google Chrome, GitHub - 内存用量 - 141 MB - Google Chrome
+[2023-12-30 15:58:23] | Google Chrome, github.com/search?q=neuro&type=repositories - Google Chrome
+[2023-12-30 15:58:23] | Google Chrome, Repository search results - Google Chrome
+[2023-12-30 15:58:27] | Google Chrome, Repository search results - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:58:33] | Google Chrome, 新标签页 - Google Chrome
+[2023-12-30 15:58:35] | Google Chrome, google.com/search?q=neuro+sama&oq=neuro&gs_lcrp=EgZjaHJvbWUqEggBEAAYQxiDARixAxiABBiKBTIJCAAQRRg5GIAEMhIIARAAGEMYgwEYsQMYgAQYigUyBwgCEAAYgAQyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMjI5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8 - Google Chrome
+[2023-12-30 15:58:36] | Google Chrome, neuro sama - Google 搜索 - Google Chrome
+[2023-12-30 15:58:41] | Google Chrome, Repository search results - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:58:47] | Google Chrome, VedalAI/neuro-amongus: Among Us Plugin for Neuro-sama - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:58:56] | Google Chrome, VedalAI/neuro-amongus：我们当中 Neuro-sama 的插件 - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:09] | Error executing AppleScript
+[2023-12-30 15:59:09] | Google Chrome, VedalAI/neuro-amongus：我们当中 Neuro-sama 的插件 - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:10] | Google Chrome, Commits · VedalAI/neuro-amongus - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:11] | Google Chrome, 提交 · VedalAI/neuro-amongus - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:13] | Google Chrome, VedalAI/neuro-amongus：我们当中 Neuro-sama 的插件 - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:14] | Google Chrome, Repository search results - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:17] | Google Chrome, 存储库搜索结果 - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:20] | Google Chrome, VedalAI/neuro-amongus: Among Us Plugin for Neuro-sama - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:20] | Google Chrome, VedalAI/neuro-amongus：我们当中 Neuro-sama 的插件 - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:21] | Google Chrome, 存储库搜索结果 - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:32] | Google Chrome, HRNPH/AIwaifu: Open-Waifu open-sourced finetunable customizable simpable AI waifu inspired by neuro-sama - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 15:59:33] | Google Chrome, HRNPH/AIwaifu：受 Neuro-sama 启发的 Open-Waifu 开源、可微调、可定制、简单的 AI waifu - 内存用量 - 236 MB - Google Chrome
+[2023-12-30 16:00:27] | Google Chrome, 存储库搜索结果 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:00:30] | Google Chrome, Repository search results - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:00:30] | Google Chrome, 存储库搜索结果 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:00:42] | Google Chrome, VedalAI/neuro-amongus: Among Us Plugin for Neuro-sama - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:00:43] | Google Chrome, VedalAI/neuro-amongus：我们当中 Neuro-sama 的插件 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:00:47] | Google Chrome, Vedal AI - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:00:48] | Google Chrome, 韦达尔人工智能 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:00:57] | Google Chrome, VedalAI/UnityRenderStreaming: Streaming server for Unity - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:00:57] | Google Chrome, VedalAI/UnityRenderStreaming：Unity 的流媒体服务器 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:01:05] | Google Chrome, 韦达尔人工智能 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:01:06] | Google Chrome, VedalAI/neuro-amongus：我们当中 Neuro-sama 的插件 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:01:07] | Google Chrome, 存储库搜索结果 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:01:09] | Google Chrome, Repository search results - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:01:09] | Google Chrome, 存储库搜索结果 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:01:20] | Google Chrome, EnzoDeg40/Alita: Create a voice assistant similar to Neuro Sama - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:01:21] | Google Chrome, EnzoDeg40/Alita：创建类似于 Neuro Sama 的语音助手 - 内存用量 - 317 MB - Google Chrome
+[2023-12-30 16:01:40] | Google Chrome, Repository search results - 内存用量 - 113 MB - Google Chrome
+[2023-12-30 16:01:41] | Google Chrome, stevenjoezhang/live2d-widget: 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform - 内存用量 - 133 MB - Google Chrome
+[2023-12-30 16:01:43] | Google Chrome, 桌面划词翻译 怎么实现 - Google 搜索 - 内存用量 - 297 MB - Google Chrome
+[2023-12-30 16:01:50] | Error executing AppleScript
+[2023-12-30 16:01:50] | Google Chrome, 桌面划词翻译 怎么实现 - Google 搜索 - 内存用量 - 297 MB - Google Chrome
+[2023-12-30 16:01:52] | Google Chrome, google.com/search?q=语音识别api&newwindow=1&sca_esv=594554241&sxsrf=AM9HkKlTgrjxkBjkYG7J1pJ5EcLoufBAdg%3A1703920644478&ei=BMSPZf3hHL3R1e8Pk8OCmAg&ved=0ahUKEwj98_SFz7aDAxW9aPUHHZOhAIMQ4dUDCBA&uact=5&oq=语音识别api&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIg_or63pn7Por4bliKthcGkyBRAAGIAEMgQQABgeMgYQABgFGB4yBhAAGAUYHkiBM1CQE1itL3ACeAGQAQKYAaUHoAH1K6oBDTAuMS4yLjAuNC4xLjO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEECMYJ8ICChAAGIAEGIoFGEPCAhAQABiABBiKBRhDGLEDGIMBwgIREC4YgAQYsQMYgwEYxwEY0QPCAgsQABiABBixAxiDAcICCxAuGIAEGLEDGIMBwgIOEAAYgAQYigUYsQMYgwHCAggQLhiABBixA8ICBRAuGIAEwgIIEAAYgAQYsQPCAggQABiABBiLA8ICCxAAGIAEGLEDGIsDwgIOEAAYgAQYsQMYgwEYiwPCAhoQLhiABBixAxiDARiXBRjcBBjeBBjgBNgBAcICDRAAGIAEGAwYsQMYgwHCAgcQABiABBgMwgIZEC4YgAQYDBixAxiDARiLAxifAxioAxieA8ICFhAuGIAEGAwYsQMYgwEYiwMYqAMYngPCAgcQLhiABBgMwgIKECMYgAQYigUYJ-IDBBgAIEGIBgGQBgq6BgYIARABGBQ&sclient=gws-wiz-serp - Google Chrome
+[2023-12-30 16:01:52] | Google Chrome, 语音识别api - Google 搜索 - Google Chrome
+[2023-12-30 16:01:59] | Google Chrome, 语音识别api - Google 搜索 - 内存用量 - 225 MB - Google Chrome
+[2023-12-30 16:04:00] | Google Chrome, 语音识别api - Google 搜索 - 内存用量 - 211 MB - Google Chrome
+[2023-12-30 16:04:05] | Google Chrome, API keys - OpenAI API - 内存用量 - 188 MB - Google Chrome
+[2023-12-30 16:04:11] | Google Chrome, Overview - OpenAI API - 内存用量 - 188 MB - Google Chrome
+[2023-12-30 16:04:14] | Google Chrome, Speech to text - OpenAI API - 内存用量 - 188 MB - Google Chrome
+[2023-12-30 16:05:22] | Google Chrome, 语音转文本 - OpenAI API - 内存用量 - 188 MB - Google Chrome
+[2023-12-30 16:06:00] | Google Chrome, 语音转文本 - OpenAI API - 内存用量 - 180 MB - Google Chrome
+[2023-12-30 16:06:52] | Google Chrome, Vision - OpenAI API - 内存用量 - 180 MB - Google Chrome
+[2023-12-30 16:06:57] | Google Chrome, Embeddings - OpenAI API - 内存用量 - 180 MB - Google Chrome
+[2023-12-30 16:06:59] | Google Chrome, Function calling - OpenAI API - 内存用量 - 180 MB - Google Chrome
+[2023-12-30 16:07:33] | Google Chrome, Python + edge-tts：一行代码，让你的文本轻松变成语音！ - 知乎 - 内存用量 - 159 MB - Google Chrome
+[2023-12-30 16:07:35] | Google Chrome, 新标签页 - Google Chrome
+[2023-12-30 16:07:39] | QQ, QQ
+[2023-12-30 16:07:58] | QQ,
+[2023-12-30 16:07:59] | QQ, QQ
+[2023-12-30 16:08:28] | Google Chrome, 新标签页 - 内存用量 - 81.3 MB - Google Chrome
+[2023-12-30 16:08:35] | Google Chrome, bilibili.com - Google Chrome
+[2023-12-30 16:08:35] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - Google Chrome
+[2023-12-30 16:08:42] | Google Chrome, 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili - 内存用量 - 192 MB - Google Chrome
+[2023-12-30 16:09:33] | Google Chrome, 无标题 - Google Chrome
+[2023-12-30 16:09:34] | Google Chrome, 【差评】那个泄露GTA6的年轻黑客，这辈子就只能在医院待着了。_哔哩哔哩_bilibili - Google Chrome
+[2023-12-30 16:09:35] | Google Chrome, Playground - OpenAI API - 内存用量 - 112 MB - Google Chrome
+[2023-12-30 16:09:44] | Google Chrome, Playground - OpenAI API - 内存用量 - 107 MB - Google Chrome
+[2023-12-30 16:10:23] | Electron, utils.py — AllMind
+[2023-12-30 16:10:25] | Electron, window_recoard_v1.py — AllMind
+[2023-12-30 16:10:35] | Electron, utils.py — AllMind
