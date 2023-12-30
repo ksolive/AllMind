@@ -35,3 +35,87 @@
 [2023-12-29 11:51:36] | Electron, func.py — AllMind
 [2023-12-29 11:52:01] | Google Chrome, Playground - OpenAI API - 内存用量 - 107 MB - Google Chrome
 [2023-12-29 11:52:24] | Electron, func.py — AllMind
+[2023-12-30 15:33:45] | Electron, key.py — AllMind
+[2023-12-30 15:34:12] | Electron, assistant.json — AllMind
+[2023-12-30 15:34:17] | Electron, test.py — AllMind
+[2023-12-30 15:35:44] | Google Chrome, 新标签页 - Google Chrome
+[2023-12-30 15:35:48] | Google Chrome, 新标签页 - 内存用量 - 82.7 MB - Google Chrome
+[2023-12-30 15:35:50] | Google Chrome, google.com/search?q=edge+tts&oq=edge+tts&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGEEyBggGEEUYPDIGCAcQRRg90gEINTA3OWoxajeoAgCwAgA&sourceid=chrome&ie=UTF-8 - Google Chrome
+[2023-12-30 15:35:51] | Google Chrome, edge tts - Google 搜索 - Google Chrome
+[2023-12-30 15:35:54] | Google Chrome, 无标题 - Google Chrome
+[2023-12-30 15:35:56] | Google Chrome, rany2/edge-tts: Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key - Google Chrome
+[2023-12-30 15:36:00] | Google Chrome, rany2/edge-tts: Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key - 内存用量 - 154 MB - Google Chrome
+[2023-12-30 15:36:06] | Google Chrome, edge tts - Google 搜索 - 内存用量 - 219 MB - Google Chrome
+[2023-12-30 15:36:13] | Google Chrome, edge tts python - Google 搜索 - Google Chrome
+[2023-12-30 15:36:17] | Google Chrome, 无标题 - Google Chrome
+[2023-12-30 15:36:18] | Google Chrome, edge-tts/examples/dynamic_voice_selection.py at master · rany2/edge-tts - Google Chrome
+[2023-12-30 15:36:22] | Google Chrome, edge-tts/examples/dynamic_voice_selection.py at master · rany2/edge-tts - 内存用量 - 158 MB - Google Chrome
+[2023-12-30 15:36:23] | Google Chrome, edge-tts/examples at master · rany2/edge-tts - 内存用量 - 158 MB - Google Chrome
+[2023-12-30 15:36:27] | Google Chrome, edge-tts/examples/basic_generation.py at master · rany2/edge-tts - 内存用量 - 158 MB - Google Chrome
+[2023-12-30 15:36:43] | Electron, test.py — AllMind
+[2023-12-30 15:36:44] | Electron, active_window_log.txt — AllMind
+[2023-12-30 15:37:22] | Electron, window_recoard_v1.py — AllMind
+[2023-12-30 15:37:25] | Electron, func.py — AllMind
+[2023-12-30 15:37:29] | Google Chrome, edge-tts/examples/basic_generation.py at master · rany2/edge-tts - 内存用量 - 158 MB - Google Chrome
+[2023-12-30 15:37:33] | Electron, func.py — AllMind
+[2023-12-30 15:37:46] | Google Chrome, edge-tts/examples/basic_generation.py at master · rany2/edge-tts - 内存用量 - 158 MB - Google Chrome
+[2023-12-30 15:38:22] | Google Chrome, edge-tts/examples/basic_generation.py at master · rany2/edge-tts - 内存用量 - 157 MB - Google Chrome
+[2023-12-30 15:38:25] | Electron, func.py — AllMind
+[2023-12-30 15:38:44] | Google Chrome, edge-tts/examples/basic_generation.py at master · rany2/edge-tts - 内存用量 - 157 MB - Google Chrome
+[2023-12-30 15:38:49] | Google Chrome, edge tts python - Google 搜索 - 内存用量 - 231 MB - Google Chrome
+[2023-12-30 15:38:52] | Google Chrome, 无标题 - Google Chrome
+[2023-12-30 15:38:53] | Google Chrome, Python + edge-tts：一行代码，让你的文本轻松变成语音！ - 知乎 - Google Chrome
+[2023-12-30 15:39:01] | Google Chrome, Python + edge-tts：一行代码，让你的文本轻松变成语音！ - 知乎 - 内存用量 - 181 MB - Google Chrome
+[2023-12-30 15:39:05] | Electron, func.py — AllMind
+[2023-12-30 15:39:25] | Google Chrome, Python + edge-tts：一行代码，让你的文本轻松变成语音！ - 知乎 - 内存用量 - 181 MB - Google Chrome
+[2023-12-30 15:39:29] | Electron, func.py — AllMind
+[2023-12-30 15:39:32] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 259 MB - Google Chrome
+[2023-12-30 15:39:43] | Electron, func.py — AllMind
+[2023-12-30 15:39:47] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 259 MB - Google Chrome
+[2023-12-30 15:39:55] | Electron, func.py — AllMind
+[2023-12-30 15:39:58] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 259 MB - Google Chrome
+[2023-12-30 15:40:01] | Electron, func.py — AllMind
+[2023-12-30 15:40:03] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 259 MB - Google Chrome
+[2023-12-30 15:40:07] | Electron, func.py — AllMind
+[2023-12-30 15:40:09] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 259 MB - Google Chrome
+[2023-12-30 15:40:25] | Electron, func.py — AllMind
+[2023-12-30 15:40:30] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 259 MB - Google Chrome
+[2023-12-30 15:40:40] | Electron, func.py — AllMind
+[2023-12-30 15:41:06] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 264 MB - Google Chrome
+[2023-12-30 15:41:57] | Electron, func.py — AllMind
+[2023-12-30 15:42:34] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 264 MB - Google Chrome
+[2023-12-30 15:42:38] | Electron, func.py — AllMind
+[2023-12-30 15:44:28] | Electron, tts_1.mp3 — AllMind
+[2023-12-30 15:44:46] | Electron, test_tts.py — AllMind
+[2023-12-30 15:44:51] | Electron, func.py — AllMind
+[2023-12-30 15:44:56] | Google Chrome, Python + edge-tts：一行代码，让你的文本轻松变成语音！ - 知乎 - 内存用量 - 152 MB - Google Chrome
+[2023-12-30 15:45:01] | Google Chrome, Python + edge-tts：一行代码，让你的文本轻松变成语音！ - 知乎 - 内存用量 - 150 MB - Google Chrome
+[2023-12-30 15:45:13] | Electron, func.py — AllMind
+[2023-12-30 15:46:19] | Google Chrome, Python + edge-tts：一行代码，让你的文本轻松变成语音！ - 知乎 - 内存用量 - 150 MB - Google Chrome
+[2023-12-30 15:46:23] | Electron, func.py — AllMind
+[2023-12-30 15:46:27] | Google Chrome, Python + edge-tts：一行代码，让你的文本轻松变成语音！ - 知乎 - 内存用量 - 150 MB - Google Chrome
+[2023-12-30 15:46:30] | Electron, func.py — AllMind
+[2023-12-30 15:46:44] | Electron, tts_2.mp3 — AllMind
+[2023-12-30 15:47:00] | Electron, func.py — AllMind
+[2023-12-30 15:48:58] | Electron, func.py — AllMind
+[2023-12-30 15:50:39] | Electron, utils.py — AllMind
+[2023-12-30 15:51:18] | Electron, utils.py — AllMind
+[2023-12-30 15:53:18] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 277 MB - Google Chrome
+[2023-12-30 15:54:01] | Electron, utils.py — AllMind
+[2023-12-30 15:54:05] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 277 MB - Google Chrome
+[2023-12-30 15:54:06] | Google Chrome,
+[2023-12-30 15:54:06] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 277 MB - Google Chrome
+[2023-12-30 15:54:16] | Google Chrome,
+[2023-12-30 15:54:16] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 277 MB - Google Chrome
+[2023-12-30 15:54:36] | Google Chrome,
+[2023-12-30 15:54:37] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 277 MB - Google Chrome
+[2023-12-30 15:54:46] | Google Chrome,
+[2023-12-30 15:54:46] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 277 MB - Google Chrome
+[2023-12-30 15:55:01] | Google Chrome, ChatGPT - 已固定 - 内存用量 - 288 MB - Google Chrome
+[2023-12-30 15:55:03] | Electron, utils.py — AllMind
+[2023-12-30 15:55:19] | Electron, utils.py — AllMind
+[2023-12-30 15:57:15] | Google Chrome, Pygame Front Page — pygame v2.6.0 documentation - Google Chrome
+[2023-12-30 15:57:18] | Google Chrome, Pygame 教程 - Google 搜索 - Google Chrome
+[2023-12-30 15:57:19] | Google Chrome, 虚拟桌宠模拟器 - Google 搜索 - 内存用量 - 226 MB - Google Chrome
+[2023-12-30 15:57:33] | Google Chrome, github - Google 搜索 - Google Chrome
+[2023-12-30 15:57:35] | Electron, utils.py — AllMind

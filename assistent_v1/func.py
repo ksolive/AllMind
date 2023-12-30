@@ -69,7 +69,7 @@ def search(question):
         return {"error": f"An error occurred: {e}"}
 
 
-import edge_tts  
+# import edge_tts  
 import glob
 import os
 
@@ -79,15 +79,25 @@ def get_max_index(directory):
     for file in mp3_files:
         file_name = os.path.basename(file)
         try:
-            index = int(file_name.split('_')[2].split('.')[0])  # 假设文件名格式为 test_tts_index.mp3
+            index = int(file_name.split('_')[1].split('.')[0])  # 假设文件名格式为 test_tts_index.mp3
             indices.append(index)
         except ValueError:
             pass
     return max(indices)
 
-async def tts(sentence, VOICE="zh-CN-XiaoyiNeural", OUTPUT_DIR="voice"):
+# async def tts(sentence, VOICE="zh-CN-XiaoyiNeural", OUTPUT_DIR="voice"):
+#     max_index = get_max_index(OUTPUT_DIR)
+#     new_index = max_index + 1
+#     new_filename = f"tts_{new_index}.mp3"
+#     communicate = edge_tts.Communicate(sentence, VOICE)  
+#     await communicate.save(new_filename) 
+
+import subprocess
+def tts(sentence, VOICE="zh-CN-XiaoyiNeural", OUTPUT_DIR="voice"):
     max_index = get_max_index(OUTPUT_DIR)
     new_index = max_index + 1
     new_filename = f"tts_{new_index}.mp3"
-    communicate = edge_tts.Communicate(sentence, VOICE)  
-    await communicate.save(new_filename) 
+    storage_location = os.path.join(OUTPUT_DIR, new_filename)
+    command = ["edge-tts", "--voice", VOICE, "--text", sentence, "--write-media", storage_location]
+    # edge-tts --text "Hello, world!" --write-media hello.mp3
+    subprocess.run(command, check=True)

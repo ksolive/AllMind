@@ -60,6 +60,7 @@ def main_loop():
         user_input = input("\n--------user--------\n")
         # 扔给 GPT
         output = get_completion(assistant_id, thread_id, user_input, funcs, debug)
+        tts(output)
         # 打印输出
         print("--------gpt--------\n", output)
         # 判断是否到达5分钟

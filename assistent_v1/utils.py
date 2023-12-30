@@ -36,9 +36,9 @@ def play_and_delete_mp3(directory):
             # 找到最新的MP3文件并播放
             newest_mp3 = max(mp3_files, key=os.path.getctime)
             print(f"发现新的MP3文件: {newest_mp3}")
-            
+            time.sleep(3)
             # 播放MP3文件
-            playsound.playsound(newest_mp3)
+            playsound.playsound(newest_mp3, block=True)
             
             # 播放完毕后删除文件
             os.remove(newest_mp3)
