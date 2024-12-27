@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Flask 聚焦聊天</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+        height: 100vh;
+        background-color: #f7f7f700;
+      }
+      #chatContainer {
+        width: 80%;
+        max-width: 600px;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        overflow-y: auto;
+        flex-grow: 1;
+        margin-bottom: 110px;
+      }
+      .message {
+        margin: 10px 0;
+        display: flex;
+        max-width: 80%;
+      }
+      .userMessage {
+        align-self: flex-end;
+        background-color: #dcf8c6;
+        padding: 10px 15px;
+        border-radius: 12px;
+      }
+      .systemMessage {
+        align-self: flex-start;
+        background-color: #e0e0e0;
+        padding: 10px 15px;
+        border-radius: 12px;
+      }
+      .input-box {
+        width: 80%;
+        max-width: 600px;
+        flex-direction: column;
+        display: flex;
+        position: fixed;
+        bottom: 30px;
+        background-color: white;
+        border-radius: 20px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        padding: 10px 15px;
+      }
+      input[type="text"] {
+        flex-grow: 1;
+        border: none;
+        outline: none;
+        font-size: 16px;
+        padding: 10px;
+      }
+      button {
+        border: none;
+        background-color: #007bff;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 20px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="chatContainer">
+      <!-- 显示聊天记录 -->
+      {% for entry in chat_history %}
+        <div class="message userMessage">{{ entry.user }}</div>
+        <div class="message systemMessage">{{ entry.ai }}</div>
+      {% endfor %}
+    </div>
+
+    <div class="input-box">
+      <form method="POST" action="/chat" style="display: flex;">
+        <input type="text" name="msgInput" id="userInput" placeholder="输入内容..." required />
+        <button type="submit">提交</button>
+      </form>
+    </div>
+  </body>
+</html>

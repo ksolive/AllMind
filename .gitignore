@@ -69,3 +69,9 @@ eslintcache
 *.swn
 *.bak
 *.tmp
+
+# 密钥相关
+keys.json
+
+# flask session
+flask_session/
