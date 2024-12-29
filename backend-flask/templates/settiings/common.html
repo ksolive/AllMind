@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置页面</title>
+    <style>body {
+        margin: 0;
+        font-family: 'Microsoft Yahei', sans-serif;
+        display: flex;
+        height: 100vh;
+        background-color: #1e1e1e;
+        color: #ddd;
+    }
+    
+    .container {
+        display: flex;
+        width: 100%;
+    }
+    
+    .sidebar {
+        width: 240px;
+        background-color: #2e2e2e;
+        padding: 20px 0;
+    }
+    
+    .menu-item {
+        padding: 15px 30px;
+        cursor: pointer;
+    }
+    
+    .menu-item:hover, .menu-item.active {
+        background-color: #3a3a3a;
+    }
+    
+    .special {
+        margin-top: 40px;
+        color: #c678dd;
+    }
+    
+    .content {
+        flex: 1;
+        padding: 40px;
+        background-color: #252526;
+    }
+    
+    h1 {
+        font-size: 1.8em;
+    }
+    
+    h2 {
+        margin-top: 30px;
+        font-size: 1.2em;
+    }
+    
+    .theme-options {
+        display: flex;
+        gap: 15px;
+        margin-top: 15px;
+    }
+    
+    .theme {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        background-color: #444;
+        color: #fff;
+    }
+    
+    .theme.active {
+        border: 1px solid #00aaff;
+    }
+    
+    .toggle {
+        display: flex;
+        justify-content: space-between;
+        margin: 15px 0;
+    }
+    
+    .toggle input {
+        transform: scale(1.3);
+    }
+    </style>
+    <link rel="stylesheet" src="./styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <div class="menu-item active">通用</div>
+            <div class="menu-item">消息通知</div>
+            <div class="menu-item">存储管理</div>
+            <div class="menu-item">快捷键</div>
+            <div class="menu-item">权限设置</div>
+            <div class="menu-item">登录设置</div>
+            <div class="menu-item special">超级调度盘</div>
+        </div>
+
+        <div class="content">
+            <h1>通用</h1>
+            <section class="appearance">
+                <h2>外观设置</h2>
+                <div class="theme-options">
+                    <button class="theme light">白天模式</button>
+                    <button class="theme dark active">夜间模式</button>
+                    <button class="theme system">跟随系统</button>
+                </div>
+            </section>
+
+            <section class="chat">
+                <h2>聊天</h2>
+                <label>发送消息
+                    <select>
+                        <option>Enter</option>
+                    </select>
+                </label>
+                <div class="toggle">
+                    <span>双击会话列表打开独立聊天窗口</span>
+                    <input type="checkbox" checked>
+                </div>
+                <div class="toggle">
+                    <span>表情推荐</span>
+                    <input type="checkbox" checked>
+                </div>
+                <div class="toggle">
+                    <span>快捷输入表情</span>
+                    <input type="checkbox" checked>
+                </div>
+                <label>输入广阔域起
+                    <select>
+                        <option>机器人指令</option>
+                    </select>
+                </label>
+            </section>
+
+            <section class="update">
+                <h2>软件更新</h2>
+                <div class="toggle">
+                    <span>当有新版本时自动帮我下载并安装</span>
+                    <input type="checkbox" checked>
+                </div>
+            </section>
+
+            <section class="font">
+                <h2>字体大小</h2>
+                <input type="range" min="1" max="5" value="3">
+            </section>
+        </div>
+    </div>
+</body>
+</html>
+
+

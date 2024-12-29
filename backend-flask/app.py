@@ -54,6 +54,9 @@ def chat():
     
     return render_template("index.html", chat_history=session['chat_history'])
 
+@app.route('/settings')
+def settings():
+    return render_template('settiings/common.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
